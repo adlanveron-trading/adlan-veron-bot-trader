@@ -1,7 +1,7 @@
 /* =========================================================
    Adlan Veron XAU/USD Trading Prediction Tool - Backend
    =========================================================
-   Kenapa perlu backend, bukan langsung dari browser?
+   Kenapa perlu backend, bukan langsung dari browser? 
    - API key (Anthropic/OpenAI/Gemini/TwelveData) TIDAK BOLEH
      ditaruh di JavaScript frontend, karena bisa dicuri siapa
      saja lewat "View Source". Backend inilah yang menyimpan
